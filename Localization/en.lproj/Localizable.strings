@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Евгений Ерофеев on 24.02.22.
+  
+*/
+
+"push_me" = "Push me!";
+"question" = "Question";
+"question_message" = "Why did you do that?";
+"sorry" = "Sorry";
+"you_asked_me" = "You asked me";
